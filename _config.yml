@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Richa Srivastava </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">|
+  <a href="http://www.linkedin.com/in/richa-shrivastava-b4014739/">LinkedIn</a> |
+  <a href="https://github.com/richas78">GitHub</a>
+  
+  <br>   
+  I'm starting working  on Data analysis of my project.
+  Worked with FIS in Payment domain from 9+ years
+ 
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
